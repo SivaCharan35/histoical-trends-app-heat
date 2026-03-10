@@ -23,13 +23,13 @@ st.set_page_config(
 st.markdown(
     """
     <style>
+        .stApp { zoom: 0.8; }
         .block-container { padding-top: 1.2rem; padding-bottom: 1rem; }
         [data-testid="stMetric"] {
             background: #f8f9fb;
             border: 1px solid #e8eaf0;
             border-radius: 10px;
             padding: 0.6rem 0.7rem;
-            zoom: 0.8;
         }
         [data-testid="stMetricLabel"] { font-size: 0.68rem; color: #666; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         [data-testid="stMetricValue"] { font-size: 1.05rem; font-weight: 700; color: #1a1a2e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
