@@ -29,6 +29,7 @@ st.markdown(
             border: 1px solid #e8eaf0;
             border-radius: 10px;
             padding: 0.6rem 0.7rem;
+            zoom: 0.8;
         }
         [data-testid="stMetricLabel"] { font-size: 0.68rem; color: #666; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         [data-testid="stMetricValue"] { font-size: 1.05rem; font-weight: 700; color: #1a1a2e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
