@@ -1,0 +1,1322 @@
+[
+    {
+        "system:index": "1",
+        "LST_C": "25.96",
+        "date": "2000-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "2",
+        "LST_C": "28.32",
+        "date": "2000-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "3",
+        "LST_C": "37.95",
+        "date": "2000-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "4",
+        "LST_C": "50.93",
+        "date": "2000-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "5",
+        "LST_C": "46.7",
+        "date": "2000-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "6",
+        "LST_C": "44.12",
+        "date": "2000-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "7",
+        "LST_C": "34.88",
+        "date": "2000-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "8",
+        "LST_C": "39.92",
+        "date": "2000-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "9",
+        "LST_C": "42.53",
+        "date": "2000-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "10",
+        "LST_C": "46.34",
+        "date": "2000-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "11",
+        "LST_C": "36.04",
+        "date": "2000-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "12",
+        "LST_C": "26.87",
+        "date": "2000-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "13",
+        "LST_C": "26.12",
+        "date": "2001-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "14",
+        "LST_C": "29.25",
+        "date": "2001-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "15",
+        "LST_C": "39.09",
+        "date": "2001-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "16",
+        "LST_C": "49.59",
+        "date": "2001-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "17",
+        "LST_C": "50.61",
+        "date": "2001-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "18",
+        "LST_C": "53.32",
+        "date": "2001-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "19",
+        "LST_C": "45.39",
+        "date": "2001-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "20",
+        "LST_C": "43.18",
+        "date": "2001-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "21",
+        "LST_C": "46.84",
+        "date": "2001-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "22",
+        "LST_C": "15.24",
+        "date": "2001-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "23",
+        "LST_C": "35.39",
+        "date": "2001-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "24",
+        "LST_C": "29.56",
+        "date": "2001-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "25",
+        "LST_C": "25.79",
+        "date": "2002-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "26",
+        "LST_C": "15.42",
+        "date": "2002-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "27",
+        "LST_C": "16.97",
+        "date": "2002-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "28",
+        "LST_C": "54.44",
+        "date": "2002-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "29",
+        "LST_C": "52.41",
+        "date": "2002-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "30",
+        "LST_C": "42.88",
+        "date": "2002-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "31",
+        "LST_C": "52.34",
+        "date": "2002-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "32",
+        "LST_C": "48.58",
+        "date": "2008-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "33",
+        "LST_C": "48.78",
+        "date": "2008-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "34",
+        "LST_C": "39.08",
+        "date": "2008-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "35",
+        "LST_C": "42.33",
+        "date": "2008-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "36",
+        "LST_C": "49.83",
+        "date": "2008-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "37",
+        "LST_C": "45.49",
+        "date": "2008-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "38",
+        "LST_C": "35.07",
+        "date": "2008-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "39",
+        "LST_C": "24.71",
+        "date": "2008-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "40",
+        "LST_C": "23.44",
+        "date": "2009-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "41",
+        "LST_C": "33.05",
+        "date": "2009-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "42",
+        "LST_C": "40.22",
+        "date": "2009-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "43",
+        "LST_C": "52.5",
+        "date": "2009-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "44",
+        "LST_C": "50.17",
+        "date": "2009-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "45",
+        "LST_C": "43.96",
+        "date": "2009-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "46",
+        "LST_C": "46.83",
+        "date": "2009-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "47",
+        "LST_C": "44.99",
+        "date": "2009-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "48",
+        "LST_C": "45.71",
+        "date": "2009-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "49",
+        "LST_C": "40.17",
+        "date": "2009-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "50",
+        "LST_C": "32.14",
+        "date": "2009-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "51",
+        "LST_C": "28.35",
+        "date": "2009-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "52",
+        "LST_C": "25.39",
+        "date": "2010-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "53",
+        "LST_C": "31.81",
+        "date": "2010-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "54",
+        "LST_C": "-5.17",
+        "date": "2010-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "55",
+        "LST_C": "52.23",
+        "date": "2010-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "56",
+        "LST_C": "46.29",
+        "date": "2010-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "57",
+        "LST_C": "41.06",
+        "date": "2010-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "58",
+        "LST_C": "38.57",
+        "date": "2010-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "59",
+        "LST_C": "32.53",
+        "date": "2010-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "60",
+        "LST_C": "26.74",
+        "date": "2010-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "61",
+        "LST_C": "24.25",
+        "date": "2011-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "62",
+        "LST_C": "31.69",
+        "date": "2011-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "63",
+        "LST_C": "38.47",
+        "date": "2011-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "64",
+        "LST_C": "53.31",
+        "date": "2011-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "65",
+        "LST_C": "53.44",
+        "date": "2011-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "66",
+        "LST_C": "49.27",
+        "date": "2011-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "67",
+        "LST_C": "42.39",
+        "date": "2011-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "68",
+        "LST_C": "41.99",
+        "date": "2011-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "69",
+        "LST_C": "38.72",
+        "date": "2013-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "70",
+        "LST_C": "52.27",
+        "date": "2013-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "71",
+        "LST_C": "50.63",
+        "date": "2013-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "72",
+        "LST_C": "52.87",
+        "date": "2013-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "73",
+        "LST_C": "54.59",
+        "date": "2013-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "74",
+        "LST_C": "49.52",
+        "date": "2013-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "75",
+        "LST_C": "48.93",
+        "date": "2013-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "76",
+        "LST_C": "48.39",
+        "date": "2013-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "77",
+        "LST_C": "35.82",
+        "date": "2013-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "78",
+        "LST_C": "28.91",
+        "date": "2013-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "79",
+        "LST_C": "26.06",
+        "date": "2014-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "80",
+        "LST_C": "31.47",
+        "date": "2014-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "81",
+        "LST_C": "43.09",
+        "date": "2014-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "82",
+        "LST_C": "49.35",
+        "date": "2014-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "83",
+        "LST_C": "51.49",
+        "date": "2014-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "84",
+        "LST_C": "53.5",
+        "date": "2014-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "85",
+        "LST_C": "45.19",
+        "date": "2014-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "86",
+        "LST_C": "47.55",
+        "date": "2014-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "87",
+        "LST_C": "48.19",
+        "date": "2014-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "88",
+        "LST_C": "47.55",
+        "date": "2014-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "89",
+        "LST_C": "38.31",
+        "date": "2014-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "90",
+        "LST_C": "26.64",
+        "date": "2014-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "91",
+        "LST_C": "29.57",
+        "date": "2015-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "92",
+        "LST_C": "29.97",
+        "date": "2015-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "93",
+        "LST_C": "42.48",
+        "date": "2015-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "94",
+        "LST_C": "44.64",
+        "date": "2015-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "95",
+        "LST_C": "55.39",
+        "date": "2015-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "96",
+        "LST_C": "55.14",
+        "date": "2015-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "97",
+        "LST_C": "51.38",
+        "date": "2015-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "98",
+        "LST_C": "45.75",
+        "date": "2015-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "99",
+        "LST_C": "49.03",
+        "date": "2015-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "100",
+        "LST_C": "45.77",
+        "date": "2015-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "101",
+        "LST_C": "33.66",
+        "date": "2015-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "102",
+        "LST_C": "28.49",
+        "date": "2015-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "103",
+        "LST_C": "28.16",
+        "date": "2016-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "104",
+        "LST_C": "32.97",
+        "date": "2016-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "105",
+        "LST_C": "40.57",
+        "date": "2016-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "106",
+        "LST_C": "49.11",
+        "date": "2016-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "107",
+        "LST_C": "56.28",
+        "date": "2016-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "108",
+        "LST_C": "52.15",
+        "date": "2016-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "109",
+        "LST_C": "51.55",
+        "date": "2016-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "110",
+        "LST_C": "48.42",
+        "date": "2016-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "111",
+        "LST_C": "48.21",
+        "date": "2016-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "112",
+        "LST_C": "47.1",
+        "date": "2016-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "113",
+        "LST_C": "36.9",
+        "date": "2016-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "114",
+        "LST_C": "32.18",
+        "date": "2016-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "115",
+        "LST_C": "27.45",
+        "date": "2017-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "116",
+        "LST_C": "36.81",
+        "date": "2017-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "117",
+        "LST_C": "41.06",
+        "date": "2017-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "118",
+        "LST_C": "52.55",
+        "date": "2017-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "119",
+        "LST_C": "48.31",
+        "date": "2017-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "120",
+        "LST_C": "41.76",
+        "date": "2017-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "121",
+        "LST_C": "44.51",
+        "date": "2017-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "122",
+        "LST_C": "48.76",
+        "date": "2017-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "123",
+        "LST_C": "49.47",
+        "date": "2017-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "124",
+        "LST_C": "47.56",
+        "date": "2017-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "125",
+        "LST_C": "37.49",
+        "date": "2017-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "126",
+        "LST_C": "27.45",
+        "date": "2017-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "127",
+        "LST_C": "30.14",
+        "date": "2018-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "128",
+        "LST_C": "33.38",
+        "date": "2018-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "129",
+        "LST_C": "41.14",
+        "date": "2018-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "130",
+        "LST_C": "46.24",
+        "date": "2018-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "131",
+        "LST_C": "52.61",
+        "date": "2018-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "132",
+        "LST_C": "48.18",
+        "date": "2018-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "133",
+        "LST_C": "50.83",
+        "date": "2018-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "134",
+        "LST_C": "42.69",
+        "date": "2018-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "135",
+        "LST_C": "46.57",
+        "date": "2018-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "136",
+        "LST_C": "44.62",
+        "date": "2018-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "137",
+        "LST_C": "36.33",
+        "date": "2018-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "138",
+        "LST_C": "31.17",
+        "date": "2018-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "139",
+        "LST_C": "25.1",
+        "date": "2019-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "140",
+        "LST_C": "25.67",
+        "date": "2019-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "141",
+        "LST_C": "41.99",
+        "date": "2019-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "142",
+        "LST_C": "53.03",
+        "date": "2019-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "143",
+        "LST_C": "54.81",
+        "date": "2019-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "144",
+        "LST_C": "50.89",
+        "date": "2019-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "145",
+        "LST_C": "48.28",
+        "date": "2019-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "146",
+        "LST_C": "48.22",
+        "date": "2019-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "147",
+        "LST_C": "48.44",
+        "date": "2019-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "148",
+        "LST_C": "47.98",
+        "date": "2019-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "149",
+        "LST_C": "32.7",
+        "date": "2019-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "150",
+        "LST_C": "28.36",
+        "date": "2019-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "151",
+        "LST_C": "25.82",
+        "date": "2020-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "152",
+        "LST_C": "31.98",
+        "date": "2020-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "153",
+        "LST_C": "38.22",
+        "date": "2020-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "154",
+        "LST_C": "48.77",
+        "date": "2020-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "155",
+        "LST_C": "52.86",
+        "date": "2020-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "156",
+        "LST_C": "54.15",
+        "date": "2020-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "157",
+        "LST_C": "52.52",
+        "date": "2020-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "158",
+        "LST_C": "56.24",
+        "date": "2020-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "159",
+        "LST_C": "44.17",
+        "date": "2020-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "160",
+        "LST_C": "45.21",
+        "date": "2020-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "161",
+        "LST_C": "32.06",
+        "date": "2020-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "162",
+        "LST_C": "26.42",
+        "date": "2020-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "163",
+        "LST_C": "26.29",
+        "date": "2021-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "164",
+        "LST_C": "36.34",
+        "date": "2021-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "165",
+        "LST_C": "38.82",
+        "date": "2021-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "166",
+        "LST_C": "50.39",
+        "date": "2021-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "167",
+        "LST_C": "45.83",
+        "date": "2021-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "168",
+        "LST_C": "47.97",
+        "date": "2021-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "169",
+        "LST_C": "46.38",
+        "date": "2021-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "170",
+        "LST_C": "48.55",
+        "date": "2021-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "171",
+        "LST_C": "45.89",
+        "date": "2021-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "172",
+        "LST_C": "44.76",
+        "date": "2021-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "173",
+        "LST_C": "36.14",
+        "date": "2021-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "174",
+        "LST_C": "28.22",
+        "date": "2021-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "175",
+        "LST_C": "25.08",
+        "date": "2022-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "176",
+        "LST_C": "31.43",
+        "date": "2022-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "177",
+        "LST_C": "48.49",
+        "date": "2022-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "178",
+        "LST_C": "55.6",
+        "date": "2022-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "179",
+        "LST_C": "53.47",
+        "date": "2022-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "180",
+        "LST_C": "48.5",
+        "date": "2022-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "181",
+        "LST_C": "47.18",
+        "date": "2022-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "182",
+        "LST_C": "44.17",
+        "date": "2022-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "183",
+        "LST_C": "50.21",
+        "date": "2022-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "184",
+        "LST_C": "43.7",
+        "date": "2022-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "185",
+        "LST_C": "37.57",
+        "date": "2022-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "186",
+        "LST_C": "29.53",
+        "date": "2022-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "187",
+        "LST_C": "25.54",
+        "date": "2023-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "188",
+        "LST_C": "34.54",
+        "date": "2023-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "189",
+        "LST_C": "39.46",
+        "date": "2023-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "190",
+        "LST_C": "45.94",
+        "date": "2023-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "191",
+        "LST_C": "54.55",
+        "date": "2023-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "192",
+        "LST_C": "54.94",
+        "date": "2023-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "193",
+        "LST_C": "49.75",
+        "date": "2023-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "194",
+        "LST_C": "40.12",
+        "date": "2023-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "195",
+        "LST_C": "48.88",
+        "date": "2023-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "196",
+        "LST_C": "44.3",
+        "date": "2023-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "197",
+        "LST_C": "28.42",
+        "date": "2023-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "198",
+        "LST_C": "25.54",
+        "date": "2023-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "199",
+        "LST_C": "21.57",
+        "date": "2024-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "200",
+        "LST_C": "33.51",
+        "date": "2024-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "201",
+        "LST_C": "42.77",
+        "date": "2024-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "202",
+        "LST_C": "53.34",
+        "date": "2024-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "203",
+        "LST_C": "58.74",
+        "date": "2024-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "204",
+        "LST_C": "54.05",
+        "date": "2024-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "205",
+        "LST_C": "58.21",
+        "date": "2024-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "206",
+        "LST_C": "45.63",
+        "date": "2024-08",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "207",
+        "LST_C": "44.09",
+        "date": "2024-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "208",
+        "LST_C": "45.28",
+        "date": "2024-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "209",
+        "LST_C": "37.73",
+        "date": "2024-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "210",
+        "LST_C": "26.46",
+        "date": "2024-12",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "211",
+        "LST_C": "26.27",
+        "date": "2025-01",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "212",
+        "LST_C": "31.31",
+        "date": "2025-02",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "213",
+        "LST_C": "45.33",
+        "date": "2025-03",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "214",
+        "LST_C": "54.66",
+        "date": "2025-04",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "215",
+        "LST_C": "51.04",
+        "date": "2025-05",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "216",
+        "LST_C": "51.11",
+        "date": "2025-06",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "217",
+        "LST_C": "37.22",
+        "date": "2025-07",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "218",
+        "LST_C": "46.8",
+        "date": "2025-09",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "219",
+        "LST_C": "42.97",
+        "date": "2025-10",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    },
+    {
+        "system:index": "220",
+        "LST_C": "37.42",
+        "date": "2025-11",
+        ".geo": "{\"type\":\"MultiPoint\",\"coordinates\":[]}"
+    }
+]
