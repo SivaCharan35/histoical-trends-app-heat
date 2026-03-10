@@ -23,7 +23,7 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        .stApp { zoom: 0.8; }
+        html { font-size: 75%; }
         .block-container { padding-top: 1.2rem; padding-bottom: 1rem; }
         [data-testid="stMetric"] {
             background: #f8f9fb;
@@ -88,7 +88,7 @@ AGG_MODE_MAP = {
     "Last 10 Years":  "yearly",  "Last 20 Years":  "yearly",
 }
 
-CHART_H = 420   # shared chart height
+CHART_H = 300   # shared chart height
 
 
 # ── Data loaders (cached) ──────────────────────────────────────────────────────
