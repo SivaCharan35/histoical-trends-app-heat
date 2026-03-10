@@ -23,6 +23,7 @@ st.set_page_config(
 st.markdown(
     """
     <style>
+        .stApp { zoom: 0.8; }
         .block-container { padding-top: 1.2rem; padding-bottom: 1rem; }
         [data-testid="stMetric"] {
             background: #f8f9fb;
@@ -805,6 +806,24 @@ with col_hi:
 
 st.markdown("---")
 
+# ── Month colour legend (yearly / monthly views) ───────────────────────────────
+if agg_mode in ("yearly", "monthly"):
+    st.markdown(
+        "<p class='section-title' style='margin-bottom:0.5rem'>"
+        "Marker Colour → Month of Peak Activity</p>",
+        unsafe_allow_html=True,
+    )
+    leg_cols = st.columns(12)
+    for i, (m_num, m_name) in enumerate(MONTH_NAMES.items()):
+        with leg_cols[i]:
+            st.markdown(
+                f"<div style='background:{MONTH_COLORS[m_num]};border-radius:5px;"
+                f"padding:5px 0;text-align:center;color:white;font-size:11px;font-weight:700'>"
+                f"{m_name}</div>",
+                unsafe_allow_html=True,
+            )
+    st.markdown("")
+
 # ── Four-panel metric layout ───────────────────────────────────────────────────
 panel_hw, div1, panel_mt, div2, panel_lst, div3, panel_hi = st.columns([9, 1, 9, 1, 9, 1, 9])
 
@@ -885,24 +904,6 @@ with panel_hi:
         st.metric("Avg Weekly HI", f"{avg_hi_window:.1f} {unit_label}" if not pd.isna(avg_hi_window) else "—")
     with i3:
         st.metric("Peak Month (avg)", peak_hi_month_label)
-
-# ── Month colour legend (yearly / monthly views) ───────────────────────────────
-if agg_mode in ("yearly", "monthly"):
-    st.markdown(
-        "<p class='section-title' style='margin-bottom:0.5rem'>"
-        "Marker Colour → Month of Peak Activity</p>",
-        unsafe_allow_html=True,
-    )
-    leg_cols = st.columns(12)
-    for i, (m_num, m_name) in enumerate(MONTH_NAMES.items()):
-        with leg_cols[i]:
-            st.markdown(
-                f"<div style='background:{MONTH_COLORS[m_num]};border-radius:5px;"
-                f"padding:5px 0;text-align:center;color:white;font-size:11px;font-weight:700'>"
-                f"{m_name}</div>",
-                unsafe_allow_html=True,
-            )
-    st.markdown("")
 
 # ── Expanders ─────────────────────────────────────────────────────────────────
 rule_col_hw, rule_col_mt, rule_col_lst, rule_col_hi = st.columns(4, gap="medium")
