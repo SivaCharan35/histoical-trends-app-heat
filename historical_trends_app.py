@@ -23,16 +23,15 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-        .stApp { zoom: 0.8; }
         .block-container { padding-top: 1.2rem; padding-bottom: 1rem; }
         [data-testid="stMetric"] {
             background: #f8f9fb;
             border: 1px solid #e8eaf0;
             border-radius: 10px;
-            padding: 0.6rem 0.7rem;
+            padding: 0.4rem 0.5rem;
         }
-        [data-testid="stMetricLabel"] { font-size: 0.68rem; color: #666; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        [data-testid="stMetricValue"] { font-size: 1.05rem; font-weight: 700; color: #1a1a2e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        [data-testid="stMetricLabel"] { font-size: 0.56rem; color: #666; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        [data-testid="stMetricValue"] { font-size: 0.82rem; font-weight: 700; color: #1a1a2e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .section-title {
             font-size: 0.72rem;
             font-weight: 600;
@@ -766,6 +765,46 @@ if not f_hi.empty:
 else:
     peak_hi_month_label = "—"
 
+# ── Side-by-side charts ────────────────────────────────────────────────────────
+col_hw, col_mt = st.columns(2, gap="medium")
+
+with col_hw:
+    st.markdown(
+        "<p class='chart-label'>ERA5-LAND  ·  Heatwave Days (Monthly)</p>",
+        unsafe_allow_html=True,
+    )
+    hw_fig = make_hw_fig(agg_mode)
+    st.plotly_chart(hw_fig, width="stretch")
+
+with col_mt:
+    st.markdown(
+        "<p class='chart-label'>ERA5-LAND  ·  Maximum Temperature (Weekly)</p>",
+        unsafe_allow_html=True,
+    )
+    mt_fig = make_mt_fig(agg_mode)
+    st.plotly_chart(mt_fig, width="stretch")
+
+# ── Row 2: LST + HI side by side ──────────────────────────────────────────────
+col_lst, col_hi = st.columns(2, gap="medium")
+
+with col_lst:
+    st.markdown(
+        "<p class='chart-label'>Landsat/Sentinel  ·  Land Surface Temperature (Monthly)</p>",
+        unsafe_allow_html=True,
+    )
+    lst_fig = make_lst_fig(agg_mode)
+    st.plotly_chart(lst_fig, width="stretch")
+
+with col_hi:
+    st.markdown(
+        "<p class='chart-label'>ERA5-LAND  ·  Heat Index (Weekly)</p>",
+        unsafe_allow_html=True,
+    )
+    hi_fig = make_hi_fig(agg_mode)
+    st.plotly_chart(hi_fig, width="stretch")
+
+st.markdown("---")
+
 # ── Four-panel metric layout ───────────────────────────────────────────────────
 panel_hw, div1, panel_mt, div2, panel_lst, div3, panel_hi = st.columns([9, 1, 9, 1, 9, 1, 9])
 
@@ -846,46 +885,6 @@ with panel_hi:
         st.metric("Avg Weekly HI", f"{avg_hi_window:.1f} {unit_label}" if not pd.isna(avg_hi_window) else "—")
     with i3:
         st.metric("Peak Month (avg)", peak_hi_month_label)
-
-st.markdown("---")
-
-# ── Side-by-side charts ────────────────────────────────────────────────────────
-col_hw, col_mt = st.columns(2, gap="medium")
-
-with col_hw:
-    st.markdown(
-        "<p class='chart-label'>ERA5-LAND  ·  Heatwave Days (Monthly)</p>",
-        unsafe_allow_html=True,
-    )
-    hw_fig = make_hw_fig(agg_mode)
-    st.plotly_chart(hw_fig, width="stretch")
-
-with col_mt:
-    st.markdown(
-        "<p class='chart-label'>ERA5-LAND  ·  Maximum Temperature (Weekly)</p>",
-        unsafe_allow_html=True,
-    )
-    mt_fig = make_mt_fig(agg_mode)
-    st.plotly_chart(mt_fig, width="stretch")
-
-# ── Row 2: LST + HI side by side ──────────────────────────────────────────────
-col_lst, col_hi = st.columns(2, gap="medium")
-
-with col_lst:
-    st.markdown(
-        "<p class='chart-label'>Landsat/Sentinel  ·  Land Surface Temperature (Monthly)</p>",
-        unsafe_allow_html=True,
-    )
-    lst_fig = make_lst_fig(agg_mode)
-    st.plotly_chart(lst_fig, width="stretch")
-
-with col_hi:
-    st.markdown(
-        "<p class='chart-label'>ERA5-LAND  ·  Heat Index (Weekly)</p>",
-        unsafe_allow_html=True,
-    )
-    hi_fig = make_hi_fig(agg_mode)
-    st.plotly_chart(hi_fig, width="stretch")
 
 # ── Month colour legend (yearly / monthly views) ───────────────────────────────
 if agg_mode in ("yearly", "monthly"):
